@@ -1,5 +1,9 @@
 # IOS-Swift-Weather-Application
-This is a weather application made in Swift and uses OpenWeather API as data sourcing. 
+This is a static weather application made in Swift and uses OpenWeather API as data sourcing. 
+
+It uses Core Location library from Xcode to get users latitude and longitude which is used to fetch data from OpenWeather's API url.
+
+Picture Below!
 
 
 
